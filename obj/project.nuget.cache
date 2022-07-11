@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oroIqpocWP3p39YxNcZ0xQK0KesrDBb8hBCjJJFe7NN0SryOZxWSKbbqjPFEn+RWWgSU6vCzL5neh5JD9wa9RQ==",
+  "success": true,
+  "projectFilePath": "/home/ode/Desktop/Kajo2022/ruokalista/ruokalista.csproj",
+  "expectedPackageFiles": [
+    "/home/ode/.nuget/packages/microsoft.aspnetcore.spaproxy/6.0.6/microsoft.aspnetcore.spaproxy.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
